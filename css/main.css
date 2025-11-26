@@ -93,7 +93,10 @@ a:hover, a:focus, a:active {
 	color: #FF0077;
 	outline: 0;
 }
-
+.intro-social i {
+    font-size: 2.5em; /* Ajusta el tamaño según lo que prefieras */
+    vertical-align: middle;
+}
 /** 
  * ===================================================================
  * 03. typography & general theme styles - (_document-setup.scss)
